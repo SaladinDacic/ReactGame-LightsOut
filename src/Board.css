@@ -1,0 +1,39 @@
+.Board-tag{
+  font-family: "Courier New", Courier, monospace;
+  font-size: 80px;
+  letter-spacing: -9px;
+  word-spacing: 1.0px;
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: small-caps;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+  position: static;
+  color: #FFFFFF;
+  text-shadow: 0 0 10px #FFFFFF;
+}
+/* .Board-tag-l{
+
+}
+.Board-tag-o{
+
+} */
+
+.Board-box {
+    min-width: 500px;
+    min-height: 500px;
+    margin: 100px;
+    margin: auto;
+    box-shadow: 0px 0px 31px 16px rgba(235,162,235,1);
+    border-radius: 20px;
+    padding: 10px;
+  }
+.Board-button{
+  outline:transparent;
+  padding: 15px;
+  border: 2px solid transparent;
+  border-radius: 15px;
+}
